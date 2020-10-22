@@ -18,3 +18,21 @@ ul{
     font-family: Helvetica,Arial,sans-serif;
 
 }
+
+.main-content{
+    border: dashed 8px ;
+
+}
+
+#koalas-pic{
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+
+.secondary-content{
+    border:solid 4px lightslategray;
+    padding: 10px;
+    margin: 10px;
+}
